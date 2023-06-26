@@ -5,7 +5,7 @@ CUDA project written in purposes of college assignment during summer semester 20
 
 Also CPU/GPU speed comparison is build up with python script.
 
-Project is written in form of Jupyter Notebook using Google Colab GPU.
+Project is written in form of Jupyter Notebook and developed by using Google Colab GPU.
 
 [Notebook](./CUDA_Project_2023.ipynb)
 
