@@ -5,10 +5,11 @@ CUDA project written in purposes of college assignment during summer semester 20
 
 Also CPU/GPU speed comparison is build up with python script.
 
-Following 4 images demonstrate filter usage.
-
 Project is written in form of Jupyter Notebook using Google Colab GPU.
-[Notebook](./CUDA_project_2023.ipynb)
+
+[Notebook](./CUDA_Project_2023.ipynb)
+
+Following 4 images demonstrate filter usage.
 
 <div style="display:flex">
   <img title="Original" width="35%" src="https://github.com/Netz00/CUDA_Box-filter/assets/49691921/0d94ba7d-da33-4acd-889b-f3969c43486e" />
