@@ -20,7 +20,7 @@ Project is written in form of Jupyter Notebook and developed by using Google Col
 
 👉 [Project Notebook](./project/CUDA_Project_2023.ipynb)
 
-Following 4 images demonstrate filter usage.
+Following 4 images demonstrate filter usage (images were resized).
 
 <table style="text-align:center">
   <tr>
